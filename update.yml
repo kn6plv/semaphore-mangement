@@ -4,4 +4,4 @@
   serial: 1
   roles:
     - role: firmware
-      version: 3.25.5.1
+      version: {{ VERSION }}
